@@ -1,4 +1,4 @@
-# Welcome to Remix!
+# Welcome tutorial Remix!
 
 - [Remix Docs](https://remix.run/docs)
 
@@ -8,6 +8,11 @@ From your terminal:
 
 ```sh
 npm run dev
+```
+
+I use Bun BTW...
+```bun
+bun run dev
 ```
 
 This starts your app in development mode, rebuilding assets on file changes.
